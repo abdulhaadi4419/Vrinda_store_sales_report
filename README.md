@@ -4,7 +4,7 @@
 Vrinda Store wanted to understand its sales trends, customer demographics, and high-performing channels and regions to improve revenue and customer retention. However, without clear visibility into who was buying, from where, and through which platforms, marketing efforts were not optimized.
 
 ## 📊 Vrinda Store Report 2022: Key Insights
-1. Sales Performance Over Months
+## 1. Sales Performance Over Months
 Peak sales were observed in February, with nearly ₹2 million in revenue.
 
 Sales showed a declining trend from April to October, with slight recovery in December.
