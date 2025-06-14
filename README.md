@@ -29,11 +29,11 @@ Maharashtra led with ₹2.99M, followed by Karnataka (₹2.65M) and Uttar Prades
 Telangana and Tamil Nadu also showed strong performance with sales over ₹1.6M.
 
 ## 5. Customer Demographics: Age & Gender
-Adults (25-45 years) were the dominant buyers, especially women (34.98%).
+Adults (30-49 years) were the dominant buyers, especially women (34.98%).
 
-Teenagers (13-19) also showed notable engagement, especially women (21.13%).
+(<30) also showed notable engagement, especially women (21.13%).
 
-Seniors had lower participation overall.
+(50+) Seniors had lower participation overall.
 
 ## 6. Sales by Gender
 Women contributed 64% of total sales, while men contributed 36%.
